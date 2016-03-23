@@ -9,5 +9,4 @@ window.onload = function () {
             cl.add('left-nav');
         }
     };
- 
 }
