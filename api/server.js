@@ -2,7 +2,6 @@ var express = require('express');
 var app = express();
 var fs = require("fs");
 
-var callservice = require("./callservice.js");
 
 var Client = require('node-rest-client').Client;
 
